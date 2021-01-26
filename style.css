@@ -8,10 +8,9 @@
 
 
 body {
-  font-family: 'Acme', sans-serif;
+  font-family: 'Chakra Petch', sans-serif;
   max-width: 960px;
 }
-
 
 div{
   width: 100%;
@@ -33,19 +32,14 @@ h2 {
 }
 
 aside {
-   width: 200px;
+   width: 25%;
   height: 100%;
    float: left;
    background: #c9a632;
 }
 
-figure{
-  width: 50px;
-  height: 140px:
-}
-
 article {
-   width: 760px;
+   width: 75%;
    float: right;
    text-align: left;
   padding: 100px;

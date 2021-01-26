@@ -1,14 +1,9 @@
-Welcome to Glitch
+INFO 301 - Explore 1-1
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+This project is designed to acquaint you with the basic structure of HTML and CSS and to help you learn how to modify these files for your own projects.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
+Your Project has the following files
 ------------
 
 ### ← README.md
@@ -23,9 +18,6 @@ Where you'll write the content of your website.
 
 CSS files add styling rules to your content.
 
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
 
 ### ← assets
 
